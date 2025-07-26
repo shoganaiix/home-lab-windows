@@ -1,4 +1,4 @@
-# 🧪 Kali x Windows 11 Offensive Security Lab
+# Kali x Windows 11 Offensive Security Lab
 
 This project demonstrates a home-based penetration testing lab using Kali Linux (attacker) and Windows 11 (victim). It showcases basic offensive security skills including network scanning, brute-force attacks, exploitation, and log monitoring using Splunk.
 
